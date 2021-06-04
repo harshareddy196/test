@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:bionic
 
 RUN apt-get update
 RUN apt-get install -y apt-utils vim curl apache2 apache2-utils
