@@ -1,0 +1,4 @@
+colorama
+Flask
+Flask-Cors
+requests
